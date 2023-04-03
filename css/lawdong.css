@@ -1,0 +1,146 @@
+.bangfu{
+    
+    width: 1510px;
+    height: 500px;
+    margin-top: 30px;
+}
+.bangfu .left{
+    float:left;
+    width: 800px;
+    height: 418px;
+    background-image: url(../image/8.png);
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+.bangfu .right{
+    width: 710px;
+    height: 418px;
+    float: left;
+    background-color: rgb(55, 83,156);
+}
+.bangfu .right span{
+    display: block;
+    font-size: 38px;
+    color: #fff;
+    line-height: 38px;
+    margin-top:115px;
+    margin-left: 60px;
+    font-weight: 300;
+}
+.bangfu .right p{
+    display: block;
+    font-size: 14px;
+    line-height: 16px;
+    height: 20px;
+    color: #fff;
+    margin-left: 60px;
+    margin-top: 28px;
+}
+.bangfu .right a{
+    display: block;
+    color:rgb(55, 83,156);
+    background-color: #fff;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 10px 25px;
+    margin-left: 60px;
+    width: 130px;
+    border-radius: 15px;
+    margin-top:50px
+}
+.person{
+    width: 1510px;
+    height: 448px;
+    background-color: pink;
+    background-image: url(../image/9.png);
+    background-size: 1510px;
+    background-repeat: no-repeat;
+}
+.falvku{
+    width: 1510px;
+    height: 600px;
+    background-color: rgb(36,79,167);
+    margin-top: 20px;
+}
+.falvku span{
+    width: 1510px;
+    height: 28px;
+    display: block;
+    float: top;
+    font-size: 28px;
+    line-height: 28px;
+    color: #fff;
+    text-align: center;
+    padding-top: 40px;
+    letter-spacing: 3px;
+}
+.falvku p{
+    width: 1510px;
+    height: 16px;
+    display: block;
+    float: top;
+    color: #fff;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 300;
+}
+.falvku .xiabu{
+    float:top;
+    margin-top: 70px;
+    width: 1510px;
+    height: 400px;
+}
+.falvku .xiabu ul{
+    float:left;
+    width: 440px;
+    height: 310px;
+    border-right: 1px solid #fff;
+}
+.falvku .xiabu li a{
+    display: block;
+    float:top;
+    width: 300px;
+    height: 16px;
+    line-height: 16px;
+    font-size: 14px;
+    color: #fff;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+.falvku .xiabu ul:first-child{
+    margin-left: 120px;
+}
+.falvku .xiabu .zuiyou{
+    float:left;
+    width: 380px;
+    height: 310px;
+    margin-left: 60px;
+}
+.falvku .xiabu .zuiyou span{
+    float: top;
+    width: 380px;
+    height: 208px;
+    background-image: url(../image/10.png);
+    background-repeat: no-repeat;
+    background-size: 350px;
+}
+.falvku .xiabu .zuiyou ul{
+    width: 380px;
+    height: 112px;
+}
+.falvku .xiabu ul:last-child{
+    border: none;
+}
+.falvku .xiabu .zuiyou ul li a{
+    float: left;
+    display: block;
+    width: 380px;
+    height: 16px;
+    line-height: 16px;
+    font-size: 14px;
+    color: #fff;
+    margin-left: 0px;
+    margin-bottom: 26px;
+}

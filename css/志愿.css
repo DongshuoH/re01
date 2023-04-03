@@ -1,0 +1,20 @@
+.top{
+    width: 1510px;
+    height: 315px;
+    background-image: url(../image/13.png);
+    background-repeat: no-repeat;
+    background-size: 1510px;
+}
+.fangshiqu{
+    width: 1510px;
+    height: 281px;
+    margin-top: 30px;
+}
+.fangshiqu .left{
+    width: 1100px;
+    background-image: url(../image/14.png);
+    background-repeat: no-repeat;
+    height: 281px;
+    background-size: 1100px;
+    margin: 0 auto;
+}

@@ -1,0 +1,138 @@
+.nav{
+    margin-top: 25px;
+    height: 60px;
+    background-color:#fff;
+}
+.wrapper{
+    height: 132px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.nav .wrapper h1{
+    float:left;
+    color: #1e50ae;
+    font-size: 28px;
+    line-height: 28px;
+    margin-right: 45px;
+    
+}
+.nav .wrapper h1 span{
+    color: red;
+    font-size: 28px;
+    line-height: 28px;
+}
+.nav li {
+    float: left;
+    margin-left: 50px;
+    line-height: 28px;
+}
+.nav li a{
+    font-size: 16px;
+    font-weight: 530;
+}
+.nav li a:hover{
+    color:#66b3ff
+}
+.banner{
+    height: 450px;
+    background-image: url(../image/1.png);
+    background-repeat: none;
+    background-size:contain ;
+
+}
+.search{
+    margin-top:50px ;
+    height: 80px;
+    
+}
+.search .wrapper .firstgra{
+    float: left;
+    margin-top: 20px;
+    margin-left: 180px;
+
+}
+.search .secondgra{
+    float:left;
+    margin-left: 20px;
+}
+.search .searchlan {
+    float: left;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+.search .searchlan input{
+    height: 38px;
+    width: 400px;
+    border:2px solid #ececec
+}
+.search .button1{
+    margin-top: 10px;
+    float: left;
+    height: 38px;
+    width: 60px;
+    background-color:#1e50ae;
+    line-height: 38px;
+    font-size:14px;
+    text-align: center;
+    color: #fff;
+    font-weight: 300;
+}
+.fonter{
+    margin-top: 30px;
+    height: 120px;
+    /* background-color: pink; */
+}
+.fonter .wrapper{
+    width: 1000px;
+    
+}
+.fonter .top{
+    float:top;
+    text-align: center;
+    font-size: 26px;
+    color:#1e50ae;
+    font-weight: 500;
+}
+.fonter .middle{
+    float:top;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    color:#b8babe;
+    font-weight: 500;
+}
+.fonter .last{
+    float:top;
+    margin-top: 5px;
+    height: 20px;
+    width: 225px;
+    background-image: url(../image/3.png);
+    margin: 0 auto;
+}
+.dibu{
+    height: 97px;
+    margin-top: 100px;
+}
+.dibu .tu{
+    height: 97px;
+    width: 966px;
+    background-image: url(../image/底部.png);
+    margin: 0 auto;
+}
+.zuidi{
+    height: 113px;
+    margin-top: 70px;
+}
+.zuidi .left{
+    height: 113px;
+    width: 700px;
+    float: left;
+    background-image: url(../image/last.png);
+}
+.zuidi .right{
+    height: 113px;
+    float: left;
+    width: 810px;
+    background-color: #1e50ae;
+}
